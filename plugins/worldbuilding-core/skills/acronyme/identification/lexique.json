@@ -1,0 +1,667 @@
+{
+  "VCI-HQ": {
+    "kind": "equipment",
+    "parts": [
+      "VCI",
+      "HQ"
+    ],
+    "note_florian": "VCI de commandement",
+    "materiel_reel": []
+  },
+  "VCI-SIG": {
+    "kind": "equipment",
+    "parts": [
+      "VCI",
+      "SIG"
+    ],
+    "note_florian": "VCI de transmission",
+    "materiel_reel": []
+  },
+  "VU-LOG": {
+    "kind": "equipment",
+    "parts": [
+      "VU",
+      "LOG"
+    ],
+    "note_florian": "Camion logistique pour munitions et vivres divers",
+    "materiel_reel": []
+  },
+  "V": {
+    "kind": "equipment",
+    "parts": [
+      "V"
+    ],
+    "note_florian": "Véhicule blindé léger non armé",
+    "materiel_reel": []
+  },
+  "VCI": {
+    "kind": "equipment",
+    "parts": [
+      "VCI"
+    ],
+    "note_florian": "VCI a roue légèrement blindés",
+    "materiel_reel": []
+  },
+  "VTT-MOR": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "MOR"
+    ],
+    "note_florian": "VAB Mortier",
+    "materiel_reel": [
+      "VAB"
+    ]
+  },
+  "VB-REC": {
+    "kind": "equipment",
+    "parts": [
+      "VB",
+      "REC"
+    ],
+    "note_florian": "VCI de reconnaissance",
+    "materiel_reel": []
+  },
+  "VBTT-MED": {
+    "kind": "equipment",
+    "parts": [
+      "VBTT",
+      "MED"
+    ],
+    "note_florian": "VBTT version médicale",
+    "materiel_reel": []
+  },
+  "VCI-ATGM": {
+    "kind": "equipment",
+    "parts": [
+      "VCI",
+      "ATGM"
+    ],
+    "note_florian": "Spécialisé lance missille",
+    "materiel_reel": [
+      "VBCI"
+    ]
+  },
+  "VCI-C": {
+    "kind": "equipment",
+    "parts": [
+      "VCI",
+      "C"
+    ],
+    "note_florian": "Avec canon",
+    "materiel_reel": []
+  },
+  "VU-MAIN": {
+    "kind": "equipment",
+    "parts": [
+      "VU",
+      "MAIN"
+    ],
+    "note_florian": "Maintenance complète",
+    "materiel_reel": []
+  },
+  "V-MAIN": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "MAIN"
+    ],
+    "note_florian": "Maintenance légère et rapide",
+    "materiel_reel": []
+  },
+  "VU-FUEL": {
+    "kind": "equipment",
+    "parts": [
+      "VU",
+      "FUEL"
+    ],
+    "note_florian": "Camion de carburant",
+    "materiel_reel": []
+  },
+  "V-ENG": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "ENG"
+    ],
+    "note_florian": "Vehicule de tractage",
+    "materiel_reel": [],
+    "role_correct_suggere": "TRK (Tracteur/remorquage) — la description catalogue 'Vehicule de tractage' correspond au rôle TRK, pas ENG (Ingénieur). Code source ORBAT_2023 inchangé, note ajoutée pour éviter la confusion sur de futurs fichiers."
+  },
+  "REM-FUEL": {
+    "kind": "equipment",
+    "parts": [
+      "REM",
+      "FUEL"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "REM-SUP": {
+    "kind": "equipment",
+    "parts": [
+      "REM",
+      "SUP"
+    ],
+    "note_florian": "Munitions et vivres divers",
+    "materiel_reel": []
+  },
+  "REM-MAIN": {
+    "kind": "equipment",
+    "parts": [
+      "REM",
+      "MAIN"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "VBCI-C": {
+    "kind": "equipment",
+    "parts": [
+      "VBCI",
+      "C"
+    ],
+    "note_florian": "VBCI Chenillé et blindés avec canon automatique et canon",
+    "materiel_reel": [
+      "VBCI"
+    ]
+  },
+  "VBCI-AA": {
+    "kind": "equipment",
+    "parts": [
+      "VBCI",
+      "AA"
+    ],
+    "note_florian": "Canon AA et/ou Missile AA",
+    "materiel_reel": []
+  },
+  "V-AAGM": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "AAGM"
+    ],
+    "note_florian": "VBL avec lance missille AA",
+    "materiel_reel": [
+      "VBL"
+    ]
+  },
+  "V-HMG": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "HMG"
+    ],
+    "note_florian": "VBL avec Mitrailleuse Lourde",
+    "materiel_reel": [
+      "VBL"
+    ]
+  },
+  "V-ATGM": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "ATGM"
+    ],
+    "note_florian": "VBL Missile",
+    "materiel_reel": [
+      "Milan",
+      "VBL"
+    ]
+  },
+  "VTT": {
+    "kind": "equipment",
+    "parts": [
+      "VTT"
+    ],
+    "note_florian": "VAB",
+    "materiel_reel": [
+      "VAB"
+    ]
+  },
+  "VTT-SIG": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "SIG"
+    ],
+    "note_florian": "VAB de transmission",
+    "materiel_reel": [
+      "VAB"
+    ]
+  },
+  "VTT-SAN": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "SAN"
+    ],
+    "note_florian": "VAB d'évacuation sanitaire",
+    "materiel_reel": [
+      "VAB"
+    ]
+  },
+  "VU": {
+    "kind": "equipment",
+    "parts": [
+      "VU"
+    ],
+    "note_florian": "Charges d'équipement divers",
+    "materiel_reel": []
+  },
+  "VUTT": {
+    "kind": "equipment",
+    "parts": [
+      "VUTT"
+    ],
+    "note_florian": "Pour transports d'infanterie et pièces lourdes",
+    "materiel_reel": []
+  },
+  "VU-SAN": {
+    "kind": "equipment",
+    "parts": [
+      "VU",
+      "SAN"
+    ],
+    "note_florian": "Camion Sanitaire",
+    "materiel_reel": []
+  },
+  "V-LMG": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "LMG"
+    ],
+    "note_florian": "VBL Avec mitrailleuse moyenne ou légère",
+    "materiel_reel": [
+      "VBL"
+    ]
+  },
+  "V-GMG": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "GMG"
+    ],
+    "note_florian": "VBL avec lance grenade",
+    "materiel_reel": [
+      "VBL"
+    ]
+  },
+  "VU-ART": {
+    "kind": "equipment",
+    "parts": [
+      "VU",
+      "ART"
+    ],
+    "note_florian": "Caesar",
+    "materiel_reel": [
+      "Caesar"
+    ]
+  },
+  "MOR-H": {
+    "kind": "equipment",
+    "parts": [
+      "MOR",
+      "H"
+    ],
+    "note_florian": "Mortier de 105mm environ",
+    "materiel_reel": []
+  },
+  "MOR-M": {
+    "kind": "equipment",
+    "parts": [
+      "MOR",
+      "M"
+    ],
+    "note_florian": "Mortier env. 80mm",
+    "materiel_reel": []
+  },
+  "MBT": {
+    "kind": "equipment",
+    "parts": [
+      "MBT"
+    ],
+    "note_florian": "Main Battle Tank",
+    "materiel_reel": []
+  },
+  "V-LOG": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "LOG"
+    ],
+    "note_florian": "VBL avec plus de stockage",
+    "materiel_reel": [
+      "VBL"
+    ]
+  },
+  "VB-CA": {
+    "kind": "equipment",
+    "parts": [
+      "VB",
+      "CA"
+    ],
+    "note_florian": "Véhicule Blindés de Combat a roues",
+    "materiel_reel": []
+  },
+  "TV-C": {
+    "kind": "equipment",
+    "parts": [
+      "TV",
+      "C"
+    ],
+    "note_florian": "VBCR avec Canon",
+    "materiel_reel": [
+      "ERC-90"
+    ]
+  },
+  "CHG": {
+    "kind": "equipment",
+    "parts": [
+      "CHG"
+    ],
+    "note_florian": "Hélicoptère de combat et de support au sol",
+    "materiel_reel": [
+      "Tigre"
+    ]
+  },
+  "CH-T": {
+    "kind": "equipment",
+    "parts": [
+      "CH",
+      "T"
+    ],
+    "note_florian": "Hélicoptère de Transport",
+    "materiel_reel": []
+  },
+  "CH-REC": {
+    "kind": "equipment",
+    "parts": [
+      "CH",
+      "REC"
+    ],
+    "note_florian": "Hélicoptère léger de reconnaissance",
+    "materiel_reel": [
+      "Gazelle"
+    ]
+  },
+  "CH-LATT": {
+    "kind": "equipment",
+    "parts": [
+      "CH",
+      "LATT"
+    ],
+    "note_florian": "Hélicoptère Attaque légère type gazelle etc..",
+    "materiel_reel": [
+      "Gazelle",
+      "gazelle"
+    ]
+  },
+  "CH-LTT": {
+    "kind": "equipment",
+    "parts": [
+      "CH",
+      "LTT"
+    ],
+    "note_florian": "Petit Hélicoptère de transport Léger",
+    "materiel_reel": []
+  },
+  "CH-TT.MR": {
+    "kind": "equipment",
+    "parts": [
+      "CH",
+      "TT",
+      "MR"
+    ],
+    "note_florian": "Type NH 90",
+    "materiel_reel": [
+      "NH90"
+    ]
+  },
+  "VTT-MOR80": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "MOR80"
+    ],
+    "note_florian": "VAB mortier 80mm",
+    "materiel_reel": [
+      "VAB"
+    ]
+  },
+  "VB-ATGM": {
+    "kind": "equipment",
+    "parts": [
+      "VB",
+      "ATGM"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "VL": {
+    "kind": "equipment",
+    "parts": [
+      "VL"
+    ],
+    "note_florian": "Type HUMWEE",
+    "materiel_reel": [
+      "HUMVEE"
+    ]
+  },
+  "SP-AACA": {
+    "kind": "equipment",
+    "parts": [
+      "SP",
+      "AACA"
+    ],
+    "note_florian": "Anti Air type Guépard",
+    "materiel_reel": [
+      "Guépard"
+    ]
+  },
+  "VU-ENG": {
+    "kind": "equipment",
+    "parts": [
+      "VU",
+      "ENG"
+    ],
+    "note_florian": "Camion d'ingénieurs",
+    "materiel_reel": []
+  },
+  "WM": {
+    "kind": "equipment",
+    "parts": [
+      "WM"
+    ],
+    "note_florian": "Moto",
+    "materiel_reel": []
+  },
+  "V-HQ/LMG": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "HQ",
+      "LMG"
+    ],
+    "note_florian": "VBL Commandement",
+    "materiel_reel": [
+      "VBL"
+    ]
+  },
+  "VTT-LMG": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "LMG"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "VTT-CA20": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "CA20"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "VTT-ATGM/LMG": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "ATGM",
+      "LMG"
+    ],
+    "note_florian": "",
+    "materiel_reel": [
+      "Mephisto",
+      "VAB"
+    ]
+  },
+  "VBCI-CA": {
+    "kind": "equipment",
+    "parts": [
+      "VBCI",
+      "CA"
+    ],
+    "note_florian": "AMX-10P",
+    "materiel_reel": [
+      "AMX-10P"
+    ]
+  },
+  "VBCI-CA.ATGM": {
+    "kind": "equipment",
+    "parts": [
+      "VBCI",
+      "CA",
+      "ATGM"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "VU-HMG": {
+    "kind": "equipment",
+    "parts": [
+      "VU",
+      "HMG"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "VTT-GEN": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "GEN"
+    ],
+    "note_florian": "VAB avec équipement genie légers",
+    "materiel_reel": [
+      "VAB"
+    ]
+  },
+  "VTT-HQ": {
+    "kind": "equipment",
+    "parts": [
+      "VTT",
+      "HQ"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "V-RAD.AA": {
+    "kind": "equipment",
+    "parts": [
+      "V",
+      "RAD",
+      "AA"
+    ],
+    "note_florian": "Crotale radar",
+    "materiel_reel": [
+      "Crotale"
+    ]
+  },
+  "ESC-INF": {
+    "kind": "personnel",
+    "parts": [
+      "ESC",
+      "INF"
+    ],
+    "note_florian": "Escouade infanterie classique",
+    "materiel_reel": []
+  },
+  "ESC-HW": {
+    "kind": "personnel",
+    "parts": [
+      "ESC",
+      "HW"
+    ],
+    "note_florian": "Equipe d'armes lourdes AT et autres",
+    "materiel_reel": []
+  },
+  "ESC-ENG": {
+    "kind": "personnel",
+    "parts": [
+      "ESC",
+      "ENG"
+    ],
+    "note_florian": "Escouade Ingénieur",
+    "materiel_reel": []
+  },
+  "ESC-MS": {
+    "kind": "personnel",
+    "parts": [
+      "ESC",
+      "MS"
+    ],
+    "note_florian": "Escouade Démineur",
+    "materiel_reel": []
+  },
+  "BI-TE": {
+    "kind": "personnel",
+    "parts": [
+      "BI",
+      "TE"
+    ],
+    "note_florian": "Binome Tireur Elite",
+    "materiel_reel": []
+  },
+  "EQU-UAV.R": {
+    "kind": "personnel",
+    "parts": [
+      "EQU",
+      "UAV",
+      "R"
+    ],
+    "note_florian": "Equipe Drone de reconnaissance",
+    "materiel_reel": []
+  },
+  "EQU-REC": {
+    "kind": "personnel",
+    "parts": [
+      "EQU",
+      "REC"
+    ],
+    "note_florian": "Equipe de Reco",
+    "materiel_reel": []
+  },
+  "ESC-AT": {
+    "kind": "personnel",
+    "parts": [
+      "ESC",
+      "AT"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  },
+  "ESC-HQ": {
+    "kind": "personnel",
+    "parts": [
+      "ESC",
+      "HQ"
+    ],
+    "note_florian": "",
+    "materiel_reel": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "florian-skills",
+  "owner": {
+    "name": "Florian"
+  },
+  "metadata": {
+    "description": "Bibliothèque personnelle de plugins Claude Code — worldbuilding, wargaming, simulateurs et outils du quotidien",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "skill-ops",
+      "source": "./plugins/skill-ops",
+      "description": "Outils de création, audit et maintenance de la bibliothèque de skills"
+    },
+    {
+      "name": "worldbuilding-core",
+      "source": "./plugins/worldbuilding-core",
+      "description": "Chaîne d'outils de worldbuilding sci-fi/fantasy : cartographie, astronomie, nomenclature planétaire, nomenclature militaire, moteur narratif et simulation géopolitique"
+    }
+  ]
+}
