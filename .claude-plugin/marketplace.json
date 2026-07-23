@@ -16,7 +16,32 @@
     {
       "name": "worldbuilding-core",
       "source": "./plugins/worldbuilding-core",
-      "description": "Chaîne d'outils de worldbuilding sci-fi/fantasy : cartographie, astronomie, nomenclature planétaire, nomenclature militaire, moteur narratif et simulation géopolitique"
+      "description": "Chaîne d'outils de worldbuilding sci-fi/fantasy : cartographie, astronomie, nomenclature planétaire, nomenclature militaire, lore Warhammer 40k perso, moteur narratif et simulation géopolitique"
+    },
+    {
+      "name": "military-ops",
+      "source": "./plugins/military-ops",
+      "description": "Organisation militaire, wargaming tabletop et simulation : BattleScribe, ORBAT (actuel et historique), scripting Arma 3"
+    },
+    {
+      "name": "aviation",
+      "source": "./plugins/aviation",
+      "description": "Mécanique du vol, aérodynamique et analyse chiffrée d'avions War Thunder"
+    },
+    {
+      "name": "research-assistant",
+      "source": "./plugins/research-assistant",
+      "description": "Recherche multi-sources vérifiées : histoire/géographie/civisme et information médicale"
+    },
+    {
+      "name": "creative-tools",
+      "source": "./plugins/creative-tools",
+      "description": "Génération de prompts image (Midjourney, icônes HOI4...) et recherche de mèmes"
+    },
+    {
+      "name": "daily-tools",
+      "source": "./plugins/daily-tools",
+      "description": "Outils du quotidien : veille actualité, brief du matin, planning et gestion de tâches"
     }
   ]
 }

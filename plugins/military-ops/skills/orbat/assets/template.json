@@ -1,0 +1,56 @@
+{
+ "id": "REPLACE_ID",
+ "type": "ORBAT-mapper",
+ "version": "2.0.0",
+ "meta": {
+  "createdDate": "REPLACE_ISO",
+  "lastModifiedDate": "REPLACE_ISO"
+ },
+ "name": "Nouvel ORBAT",
+ "startTime": "2025-01-01T00:00:00+01:00",
+ "timeZone": "Europe/Paris",
+ "description": "",
+ "symbologyStandard": "app6",
+ "sides": [
+  {
+   "name": "Bleu",
+   "standardIdentity": "3",
+   "symbolOptions": {
+    "fillColor": "#80e0ff"
+   },
+   "units": [],
+   "id": "REPLACE_SIDE_ID",
+   "groups": [
+    {
+     "name": "Groupe 1",
+     "id": "REPLACE_GROUP_ID",
+     "subUnits": [],
+     "symbolOptions": {}
+    }
+   ]
+  }
+ ],
+ "layers": [
+  {
+   "name": "Features",
+   "id": "REPLACE_LAYER_ID",
+   "features": []
+  }
+ ],
+ "events": [],
+ "mapLayers": [],
+ "equipment": [],
+ "personnel": [],
+ "supplyCategories": [],
+ "settings": {
+  "rangeRingGroups": [],
+  "statuses": [],
+  "supplyClasses": [],
+  "supplyUoMs": [],
+  "map": {
+   "baseMapId": "osm"
+  },
+  "symbolFillColors": [],
+  "customSymbols": []
+ }
+}

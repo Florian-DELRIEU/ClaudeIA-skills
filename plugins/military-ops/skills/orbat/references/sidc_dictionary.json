@@ -1,0 +1,6299 @@
+{
+ "_doc": "Dictionnaire SIDC extrait des ORBAT de Florian (orbat-mapper.app). Clé = sidc 20 chiffres.",
+ "_positions": "1-2 version | 3 contexte | 4 identité | 5-6 symbol set | 7 statut | 8 HQ/TF/dummy | 9-10 échelon | 11-16 entité | 17-18 mod1 | 19-20 mod2",
+ "entries": {
+  "10031000000000000000": {
+   "echelon": "-",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "BACKUP",
+    "FRANCE",
+    "Compagnies de Combats",
+    "Compagnies de Soutien"
+   ]
+  },
+  "10031000000000007700": {
+   "echelon": "-",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "77",
+   "mod2": "00",
+   "examples": [
+    "Supports"
+   ]
+  },
+  "10031000001606001900": {
+   "echelon": "-",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "19",
+   "mod2": "00",
+   "examples": [
+    "Soutien Divisionnaire"
+   ]
+  },
+  "10031000111102000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "110200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CA CELL"
+   ]
+  },
+  "10031000111106000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "110600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM INFLUENCE",
+    "CMD TM 1",
+    "CMD TM 2"
+   ]
+  },
+  "10031000111110000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "DGT TM",
+    "WIRE SEC",
+    "SIG TM",
+    "CMD TM"
+   ]
+  },
+  "10031000111110040000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111004",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 TM TACSAT",
+    "2 TM TACSAT",
+    "3 TM TACSAT"
+   ]
+  },
+  "10031000111204000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "1 TM ATGM 1",
+    "2 TM ATGM 1"
+   ]
+  },
+  "10031000111205000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3",
+    "CMD SEC 1"
+   ]
+  },
+  "10031000111205010000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120501",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM",
+    "OPS TM",
+    "FUT OPS TM",
+    "CMD TM HHC"
+   ]
+  },
+  "10031000111206000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "AIR OPS TM",
+    "AIR OPS SEC"
+   ]
+  },
+  "10031000111206000300": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "03",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3",
+    "CMD TM"
+   ]
+  },
+  "10031000111206006900": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "00",
+   "examples": [
+    "CMD TM UTILITY HELO"
+   ]
+  },
+  "10031000111206006915": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "15",
+   "examples": [
+    "CMD TM TRANS HELO HVY"
+   ]
+  },
+  "10031000111206006924": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "24",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3"
+   ]
+  },
+  "10031000111208000100": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120800",
+   "mod1": "01",
+   "mod2": "00",
+   "examples": [
+    "CMD TM UCAV"
+   ]
+  },
+  "10031000111211000001": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3",
+    "FUT OPS TM"
+   ]
+  },
+  "10031000111211000019": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "CMD TM"
+   ]
+  },
+  "10031000111211020000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 TM AGL 1",
+    "2 TM AGL 1",
+    "3 TM AGL 1",
+    "1 TM AGL 2"
+   ]
+  },
+  "10031000111211040000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121104",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3",
+    "CMD TM HHC"
+   ]
+  },
+  "10031000111211050000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3",
+    "CMD TM HHC"
+   ]
+  },
+  "10031000111213000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM",
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3"
+   ]
+  },
+  "10031000111213000001": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "CMD TM"
+   ]
+  },
+  "10031000111217000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SOF TM"
+   ]
+  },
+  "10031000111218020000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121802",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SOF TM"
+   ]
+  },
+  "10031000111219000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM UAV JAM"
+   ]
+  },
+  "10031000111301000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM",
+    "CMD TM AA",
+    "CMD TM 1",
+    "CMD TM 2"
+   ]
+  },
+  "10031000111301006700": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "CMD TM",
+    "CMD TM EW"
+   ]
+  },
+  "10031000111301020019": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "CMD TM SAM",
+    "CMD TM",
+    "CMD TM BTY",
+    "CMD TM MANPAD"
+   ]
+  },
+  "10031000111301020024": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "24",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3"
+   ]
+  },
+  "10031000111303000001": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3"
+   ]
+  },
+  "10031000111303004100": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "41",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3",
+    "FUT OPS TM"
+   ]
+  },
+  "10031000111303005000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "50",
+   "mod2": "00",
+   "examples": [
+    "1 TM TGT LOC",
+    "2 TM TGT LOC"
+   ]
+  },
+  "10031000111303006700": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "FIRES TM",
+    "CMD TM",
+    "FUT OPS TM",
+    "INT FIRES TM"
+   ]
+  },
+  "10031000111303010000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3",
+    "CMD TM HHC"
+   ]
+  },
+  "10031000111307000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "OPS TM",
+    "FUT OPS TM",
+    "CMD TM HHC"
+   ]
+  },
+  "10031000111308020000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130802",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM MTR"
+   ]
+  },
+  "10031000111401000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM RECON",
+    "CHEM TM",
+    "WMD TM"
+   ]
+  },
+  "10031000111401000700": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "07",
+   "mod2": "00",
+   "examples": [
+    "CHEM TM",
+    "CMD TM"
+   ]
+  },
+  "10031000111401001500": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "15",
+   "mod2": "00",
+   "examples": [
+    "CMD TM DECON"
+   ]
+  },
+  "10031000111402000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "IO TM",
+    "1 TM WIMAX WIFI",
+    "2 TM WIMAX WIFI",
+    "3 TM WIMAX WIFI"
+   ]
+  },
+  "10031000111407000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "ENG TM"
+   ]
+  },
+  "10031000111407000001": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "CMD TM",
+    "SPT TM",
+    "TRK TM",
+    "TWD TM"
+   ]
+  },
+  "10031000111407000900": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "09",
+   "mod2": "00",
+   "examples": [
+    "ENG TM",
+    "CMD TM",
+    "TRK TM",
+    "TOWED TM"
+   ]
+  },
+  "10031000111407001200": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "12",
+   "mod2": "00",
+   "examples": [
+    "CMD TM RD BRIDGE CONST",
+    "CMD TM ENG SPT",
+    "ENG TM",
+    "CMD TM ENG SPT CO"
+   ]
+  },
+  "10031000111407030000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140703",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM"
+   ]
+  },
+  "10031000111412000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "FOR PRO TM",
+    "CMD TM"
+   ]
+  },
+  "10031000111505000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM IEW",
+    "CMD TM INT",
+    "CMD TM HHC",
+    "CMD TM TARGET LOC"
+   ]
+  },
+  "10031000111505020000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150502",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 TM GPS LOC",
+    "2 TM GPS LOC"
+   ]
+  },
+  "10031000111505030000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150503",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 TM COMMO LOC",
+    "2 TM COMMO LOC",
+    "3 TM COMMO LOC",
+    "2 TM COMMO LOC VHF"
+   ]
+  },
+  "10031000111507000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "INT TM IEW",
+    "INT TM"
+   ]
+  },
+  "10031000111510000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "FW LOC TM",
+    "HELO LOC TM",
+    "UAV LOC TM",
+    "CMD TM PHYS DECEPTION"
+   ]
+  },
+  "10031000111510004900": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "49",
+   "mod2": "00",
+   "examples": [
+    "CMD TM RESEARCH"
+   ]
+  },
+  "10031000111510005000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "50",
+   "mod2": "00",
+   "examples": [
+    "CMD TM RADAR",
+    "1 TM GSR LOC",
+    "2 TM GSR LOC",
+    "1 TM CFR LOC"
+   ]
+  },
+  "10031000111606000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SPT TM 1",
+    "SPT TM 2",
+    "SPT TM 3",
+    "SPT TM"
+   ]
+  },
+  "10031000111611000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM",
+    "SPT TM",
+    "CMD TM 1",
+    "CMD TM 2"
+   ]
+  },
+  "10031000111613000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Groupe Medical",
+    "CMD TM 1",
+    "1 TM SURG 1",
+    "2 TM SURG 1"
+   ]
+  },
+  "10031000111623000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM ORD MNT"
+   ]
+  },
+  "10031000111629000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SPLY TM 1",
+    "SPLY TM 2",
+    "SPLY TM 3",
+    "SPLY TM 4"
+   ]
+  },
+  "10031000111636000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SPLY TM 1",
+    "SPLY TM 2",
+    "TRANS TM",
+    "SPLY TM 3"
+   ]
+  },
+  "10031000111639000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM 3",
+    "SPLY TM 3"
+   ]
+  },
+  "10031000111641000000": {
+   "echelon": "Équipe/Crew",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "164100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2"
+   ]
+  },
+  "10031000120000009800": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "HQ "
+   ]
+  },
+  "10031000121102000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "110200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CA CELL"
+   ]
+  },
+  "10031000121107000051": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "110700",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Peleton Transmission"
+   ]
+  },
+  "10031000121110000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "COUR SQD",
+    "COURIER SQD 1",
+    "COURIER SQD 2",
+    "COURIER SQD 3"
+   ]
+  },
+  "10031000121204000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SQD ATGM",
+    "2 SQD ATGM",
+    "3 SQD ATGM"
+   ]
+  },
+  "10031000121204000051": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Equipe VBCI AT",
+    "Equipe AT"
+   ]
+  },
+  "10031000121205010000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120501",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 2",
+    "HM REC SQD",
+    "1 SQD HM REC",
+    "2 SQD HM REC"
+   ]
+  },
+  "10031000121211000001": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "1 SQD",
+    "2 SQD",
+    "3 SQD"
+   ]
+  },
+  "10031000121211000019": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "1 SQD",
+    "2 SQD",
+    "3 SQD",
+    "1 SQD 1"
+   ]
+  },
+  "10031000121211020000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM MECH"
+   ]
+  },
+  "10031000121211040000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121104",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SQD 1 1",
+    "2 SQD 1 1",
+    "3 SQD 1 1",
+    "WPNS SQD 1 1"
+   ]
+  },
+  "10031000121213000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SQD RECON",
+    "2 SQD RECON",
+    "3 SQD RECON",
+    "RECON SQD"
+   ]
+  },
+  "10031000121213000022": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "22",
+   "examples": [
+    "1 SQD LR SENSOR",
+    "2 SQD LR SENSOR",
+    "CMD TM 1",
+    "CMD TM 3"
+   ]
+  },
+  "10031000121213030000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121303",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HM REC SQD",
+    "1 SQD HM RECON",
+    "2 SQD HM RECON",
+    "3 SQD HM RECON"
+   ]
+  },
+  "10031000121301020019": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "CMD TM MANPAD",
+    "CMD TM"
+   ]
+  },
+  "10031000121304000051": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130400",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Section Observateur Artillerie",
+    "Observateur"
+   ]
+  },
+  "10031000121308000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SQD MTR 1",
+    "2 SQD MTR 1",
+    "3 SQD MTR 1",
+    "1 SQD MTR 2"
+   ]
+  },
+  "10031000121401000700": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "07",
+   "mod2": "00",
+   "examples": [
+    "CHEM SQD"
+   ]
+  },
+  "10031000121401001500": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "15",
+   "mod2": "00",
+   "examples": [
+    "VEH DECON SQD",
+    "PERS DECON SQD",
+    "1 SQD 1 DECON",
+    "2 SQD 1 DECON"
+   ]
+  },
+  "10031000121401050400": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140105",
+   "mod1": "04",
+   "mod2": "00",
+   "examples": [
+    "NBC RECON SQD"
+   ]
+  },
+  "10031000121402000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM 1",
+    "CMD TM 2",
+    "CMD TM INFO ATK",
+    "1 CELL DA INFOWAR 1"
+   ]
+  },
+  "10031000121407000001": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "1 SQD CBT ENG",
+    "2 SQD CBT ENG",
+    "3 SQD CBT ENG",
+    "MINELAYING SQD SCATTER"
+   ]
+  },
+  "10031000121407000900": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "09",
+   "mod2": "00",
+   "examples": [
+    "1 SQD CBT ENG",
+    "2 SQD CBT ENG",
+    "3 SQD CBT ENG",
+    "MINEFIELD BREACH SQD"
+   ]
+  },
+  "10031000121407030000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140703",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "ENG RECON SQD",
+    "1 SQD ENG RECON",
+    "2 SQD ENG RECON",
+    "3 SQD ENG RECON"
+   ]
+  },
+  "10031000121412000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "FOR PRO TM",
+    "TAC SCTY SQD 1",
+    "TAC SCTY SQD 2",
+    "CMD TM 1"
+   ]
+  },
+  "10031000121417000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TAC SCTY SQD 1",
+    "TAC SCTY SQD 2"
+   ]
+  },
+  "10031000121505000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD TM EW",
+    "FUT OPS SQD",
+    "EW SQD",
+    "CMD TM EW DECEPTION"
+   ]
+  },
+  "10031000121505030000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150503",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SQD SIG RECON",
+    "2 SQD SIG RECON",
+    "3 SQD SIG RECON",
+    "1 SQD RADAR RECON"
+   ]
+  },
+  "10031000121510000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "RECON MGT SQD"
+   ]
+  },
+  "10031000121606000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "LOG SQD"
+   ]
+  },
+  "10031000121611000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MNT SQD"
+   ]
+  },
+  "10031000121613000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SQD 1 EVAC",
+    "2 SQD 1 EVAC",
+    "3 SQD 1 EVAC",
+    "1 SQD 2 EVAC"
+   ]
+  },
+  "10031000121613000051": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161300",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Section MEDEVAC"
+   ]
+  },
+  "10031000121629000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "LOG SQD",
+    "HHC SPLY SQD"
+   ]
+  },
+  "10031000121636000000": {
+   "echelon": "Escouade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TRANS SQD",
+    "TRANS SQD MINE WARFARE",
+    "TRANS SQD MINELAYING",
+    "CMD SEC"
+   ]
+  },
+  "10031000130000009800": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "Quartier Général",
+    "QG de Compagnie",
+    "Groupe Cmdt",
+    "Bataillon HQ"
+   ]
+  },
+  "10031000131102000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "110200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CA SEC",
+    "CA CELL"
+   ]
+  },
+  "10031000131106000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "110600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ INFLUENCE CO",
+    "1 SEC PRINT PROD",
+    "2 SEC PRINT PROD",
+    "3 SEC PRINT PROD"
+   ]
+  },
+  "10031000131110000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "WIRE SEC",
+    "LR SIG SEC",
+    "HQ",
+    "SIG SEC"
+   ]
+  },
+  "10031000131110010000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111001",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "RADIO SEC",
+    "1 SEC RADIO",
+    "2 SEC RADIO",
+    "3 SEC RADIO"
+   ]
+  },
+  "10031000131110040000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111004",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TACSAT SEC",
+    "SATCOM SEC",
+    "1 SEC SATCOM",
+    "2 SEC SATCOM"
+   ]
+  },
+  "10031000131204000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "ATGM SEC 1",
+    "ATGM SEC 2",
+    "ATGM SEC 3"
+   ]
+  },
+  "10031000131204000048": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "48",
+   "examples": [
+    "Section Fusils AT"
+   ]
+  },
+  "10031000131205000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "STAFF SEC",
+    "CMD SEC",
+    "HQ 1 CO",
+    "HQ 2 CO"
+   ]
+  },
+  "10031000131205009800": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "Peleton Pz IV",
+    "Peleton Pz V"
+   ]
+  },
+  "10031000131205010000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120501",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "HQ CO",
+    "HM REC SEC",
+    "CMD SEC"
+   ]
+  },
+  "10031000131206000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "AIR OPS TM",
+    "AIR OPS SEC"
+   ]
+  },
+  "10031000131206000100": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "01",
+   "mod2": "00",
+   "examples": [
+    "UAV PLT",
+    "UAV SEC"
+   ]
+  },
+  "10031000131206000300": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "03",
+   "mod2": "00",
+   "examples": [
+    "Peleton Gazelle",
+    "Peleton Tigre",
+    "CMD SEC",
+    "STAFF SEC"
+   ]
+  },
+  "10031000131206006900": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "00",
+   "examples": [
+    "FLT SEC 1 UTILITY HELO",
+    "FLT SEC 2 UTILITY HELO"
+   ]
+  },
+  "10031000131206006915": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "15",
+   "examples": [
+    "HQ TRANS HELO HVY",
+    "FLT SEC 1 TRANS HELO",
+    "FLT SEC 2 TRANS HELO"
+   ]
+  },
+  "10031000131206006924": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "24",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ 1 CO",
+    "FLT SEC 1 1"
+   ]
+  },
+  "10031000131208000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "AIR INFIL SEC"
+   ]
+  },
+  "10031000131208000100": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120800",
+   "mod1": "01",
+   "mod2": "00",
+   "examples": [
+    "HQ UCAV CO"
+   ]
+  },
+  "10031000131209000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "IBACS SEC"
+   ]
+  },
+  "10031000131211000001": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ 1 CO",
+    "HQ 2 CO"
+   ]
+  },
+  "10031000131211000019": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000131211006100": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "61",
+   "mod2": "00",
+   "examples": [
+    "Equipes Tireur Elite"
+   ]
+  },
+  "10031000131211020000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "AGL SEC 1",
+    "AGL SEC 2",
+    "AGL SEC 3"
+   ]
+  },
+  "10031000131211040000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121104",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ 1 CO",
+    "HQ 2 CO"
+   ]
+  },
+  "10031000131211050000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ 1 CO",
+    "HQ 2 CO"
+   ]
+  },
+  "10031000131213000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ CO",
+    "CMD SEC",
+    "STAFF SEC",
+    "RECON SEC"
+   ]
+  },
+  "10031000131213000001": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000131213030000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121303",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HM REC SEC"
+   ]
+  },
+  "10031000131217000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SOF SEC"
+   ]
+  },
+  "10031000131218020000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121802",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SOF SEC"
+   ]
+  },
+  "10031000131219000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "GRND OPS SEC",
+    "TRANS LAUNCH SEC",
+    "GND CNTL SEC",
+    "1 SEC TRANS LAUNCH"
+   ]
+  },
+  "10031000131301000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "1 SEC",
+    "2 SEC",
+    "3 SEC"
+   ]
+  },
+  "10031000131301006700": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "EW TA SEC 1",
+    "EW TA SEC 2",
+    "RADAR SEC 1"
+   ]
+  },
+  "10031000131301020000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC"
+   ]
+  },
+  "10031000131301020019": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "HQ SAM BTY",
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ"
+   ]
+  },
+  "10031000131301020024": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "24",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ 1 BTY",
+    "HQ 2 BTY"
+   ]
+  },
+  "10031000131303000001": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ 1 BTY",
+    "HQ 2 BTY"
+   ]
+  },
+  "10031000131303000051": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Section Reconaissance"
+   ]
+  },
+  "10031000131303004100": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "41",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ 1 BTY",
+    "HQ 2 BTY"
+   ]
+  },
+  "10031000131303005000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "50",
+   "mod2": "00",
+   "examples": [
+    "1 SEC CM CB",
+    "2 SEC CM CB"
+   ]
+  },
+  "10031000131303006200": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "62",
+   "mod2": "00",
+   "examples": [
+    "1 SEC SR",
+    "2 SEC SR"
+   ]
+  },
+  "10031000131303006700": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "OBS SEC 1",
+    "OBS SEC 2",
+    "OBS SEC 3",
+    "FIRE CNTRL SEC 1"
+   ]
+  },
+  "10031000131303009800": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "QG de batterie"
+   ]
+  },
+  "10031000131303010000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "HQ 1 BTY",
+    "HQ 2 BTY"
+   ]
+  },
+  "10031000131304000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SNPR SEC 1",
+    "SNPR SEC 2",
+    "SNPR SEC 3"
+   ]
+  },
+  "10031000131306000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MET SEC",
+    "MET SURVEY SEC"
+   ]
+  },
+  "10031000131307000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "OPS SEC",
+    "HQ HHC"
+   ]
+  },
+  "10031000131307000046": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130700",
+   "mod1": "00",
+   "mod2": "46",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "1 SEC 1",
+    "2 SEC 1"
+   ]
+  },
+  "10031000131308000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MTR SEC 1",
+    "MTR SEC 2",
+    "MTR SEC 3",
+    "CMD SEC MTR"
+   ]
+  },
+  "10031000131308010051": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130801",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Section Mortier",
+    "Section Mortier (VAB)"
+   ]
+  },
+  "10031000131308020000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130802",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ MTR BTY",
+    "CMD TM MTR"
+   ]
+  },
+  "10031000131309000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SURVEY SEC"
+   ]
+  },
+  "10031000131401000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ RECON CO"
+   ]
+  },
+  "10031000131401000700": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "07",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "CHEM SEC"
+   ]
+  },
+  "10031000131401001500": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "15",
+   "mod2": "00",
+   "examples": [
+    "HQ DECON CO"
+   ]
+  },
+  "10031000131401006009": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "60",
+   "mod2": "09",
+   "examples": [
+    "DECON SEC"
+   ]
+  },
+  "10031000131402000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "IO SEC",
+    "PARACHUTE SPT SEC",
+    "WIMAX WIFI SEC",
+    "CYBER SEC"
+   ]
+  },
+  "10031000131407000001": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "HQ",
+    "MECH MINELAYING SEC"
+   ]
+  },
+  "10031000131407000900": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "09",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "MINELAYING MECH SEC",
+    "CMD SEC",
+    "STAFF SEC"
+   ]
+  },
+  "10031000131407001200": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "12",
+   "mod2": "00",
+   "examples": [
+    "GEN SPT SEC",
+    "MVMT SPT SEC",
+    "HQ ENG SPT CO",
+    "HQ RD BRIDGE CONST"
+   ]
+  },
+  "10031000131407030000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140703",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000131412000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TAC SCTY SEC",
+    "FOR PRO SEC",
+    "1 SEC TAC SCTY",
+    "2 SEC TAC SCTY"
+   ]
+  },
+  "10031000131417000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TAC SCTY SEC",
+    "1 SEC TAC SCTY",
+    "2 SEC TAC SCTY"
+   ]
+  },
+  "10031000131502000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC"
+   ]
+  },
+  "10031000131505000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CMD SEC",
+    "STAFF SEC",
+    "CMD TM SIG RECON",
+    "HQ EW CO"
+   ]
+  },
+  "10031000131505020000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150502",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "COMMO LOC SEC 1",
+    "COMMO LOC SEC 2",
+    "GPS LOC SEC 1",
+    "GPS LOC SEC 2"
+   ]
+  },
+  "10031000131505030000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150503",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HF RADIO INT DF SEC",
+    "VHF RADIO INT DF SEC",
+    "RADIO MONITOR SEC"
+   ]
+  },
+  "10031000131505040000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150504",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "EW SEC",
+    "GPS LOC SEC 1",
+    "GPS LOC SEC 2",
+    "1 SEC COMMO JAMMING 1"
+   ]
+  },
+  "10031000131510000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MI SEC",
+    "RECON MGT SEC",
+    "ANALYSIS SEC",
+    "INTEL PLANNING SEC"
+   ]
+  },
+  "10031000131510004900": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "49",
+   "mod2": "00",
+   "examples": [
+    "HQ RESEARCH PLAN CO"
+   ]
+  },
+  "10031000131510005000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "50",
+   "mod2": "00",
+   "examples": [
+    "RADAR LOC SEC 1",
+    "RADAR LOC SEC 2",
+    "HQ RADAR INT DF CO",
+    "RADAR LOC SEC 3"
+   ]
+  },
+  "10031000131601000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "ADM DISPO SEC",
+    "ADMIN SEC"
+   ]
+  },
+  "10031000131606000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SPT SEC",
+    "HQ SPT CO",
+    "ADMIN SEC",
+    "CMD SEC"
+   ]
+  },
+  "10031000131611000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MNT SEC",
+    "MNT SEC 2",
+    "MNT SEC 3",
+    "MNT SEC 1"
+   ]
+  },
+  "10031000131611002200": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "22",
+   "mod2": "00",
+   "examples": [
+    "EO SEC",
+    "EO SEC TECH"
+   ]
+  },
+  "10031000131611003400": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "34",
+   "mod2": "00",
+   "examples": [
+    "1 SEC",
+    "2 SEC",
+    "3 SEC",
+    "1 SEC TECH"
+   ]
+  },
+  "10031000131613000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MED SEC",
+    "TREATMENT SEC",
+    "1 SEC COLL",
+    "2 SEC COLL"
+   ]
+  },
+  "10031000131613000011": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161300",
+   "mod1": "00",
+   "mod2": "11",
+   "examples": [
+    "DENT SEC 1",
+    "DENT SEC 2",
+    "DENT SEC 3",
+    "DENT SEC"
+   ]
+  },
+  "10031000131616000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MORT SEC 1",
+    "MORT SEC 2",
+    "MORT SEC 3",
+    "MORT SEC"
+   ]
+  },
+  "10031000131623000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SEC ORD MNT",
+    "2 SEC ORD MNT",
+    "HQ ORD MNT CO",
+    "1 SEC 1 ORD MNT"
+   ]
+  },
+  "10031000131628000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SEC TV VIDEO PROD",
+    "2 SEC TV VIDEO PROD",
+    "3 SEC TV VIDEO PROD",
+    "TV VIDEO MONITOR SEC"
+   ]
+  },
+  "10031000131629000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SEC CGO SPLY",
+    "2 SEC CGO SPLY",
+    "HHC SPLY SEC",
+    "LOG SEC"
+   ]
+  },
+  "10031000131634000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Grp Logistique",
+    "Trains",
+    "LR SIG SEC"
+   ]
+  },
+  "10031000131636000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TRANS SEC",
+    "SPLY SEC MTR",
+    "SPLY SEC 2",
+    "HHC SPLY SQD"
+   ]
+  },
+  "10031000131637000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MESS SEC"
+   ]
+  },
+  "10031000131639000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "POL SEC",
+    "1 SEC POL",
+    "2 SEC POL",
+    "1 SEC 2 1"
+   ]
+  },
+  "10031000131641000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "164100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 SEC 1",
+    "2 SEC 1",
+    "1 SEC 2",
+    "2 SEC 2"
+   ]
+  },
+  "10031000131645000000": {
+   "echelon": "Section (US)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "164500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MNT SEC",
+    "MNT SEC 1",
+    "MNT SEC 2",
+    "MNT SEC 3"
+   ]
+  },
+  "10031000140000009800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "QG",
+    "HQ"
+   ]
+  },
+  "10031000141106000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "110600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "PRINT PROD PLT",
+    "HQ 1 CO",
+    "1 PLT 1",
+    "2 PLT 1"
+   ]
+  },
+  "10031000141110000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SIG PLT",
+    "LR SIG PLT",
+    "DGT PLT",
+    "RADIO PLT"
+   ]
+  },
+  "10031000141110000051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111000",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Section Transmission (vide)"
+   ]
+  },
+  "10031000141110010000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111001",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "RADIO PLT",
+    "RADIO PROD PLT"
+   ]
+  },
+  "10031000141204000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "ATGM PLT",
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1"
+   ]
+  },
+  "10031000141204000051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Escadron VAB Mephisto",
+    "Escadron VBL Milan",
+    "Section AT",
+    "Section Mortiers (120mm)"
+   ]
+  },
+  "10031000141204013451": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120401",
+   "mod1": "34",
+   "mod2": "51",
+   "examples": [
+    "Section AT"
+   ]
+  },
+  "10031000141205000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 PLT 1",
+    "2 PLT 1",
+    "3 PLT 1",
+    "1 PLT 2"
+   ]
+  },
+  "10031000141205000019": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "Peleton M22"
+   ]
+  },
+  "10031000141205000051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Peleton AMX10-RC",
+    "Peleton de ERC-90",
+    "Peleton RC (AMX10-RC)",
+    "Peleton Char"
+   ]
+  },
+  "10031000141205009800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000141205009819": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "98",
+   "mod2": "19",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000141205010000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120501",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "RECON PLT",
+    "RECON PLT TRK",
+    "RECON PLT WHL",
+    "HQ 2 CO"
+   ]
+  },
+  "10031000141206000100": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "01",
+   "mod2": "00",
+   "examples": [
+    "Escadron de NH 90"
+   ]
+  },
+  "10031000141206000300": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "03",
+   "mod2": "00",
+   "examples": [
+    "1 PLT 1",
+    "2 PLT 1",
+    "1 PLT 2",
+    "2 PLT 2"
+   ]
+  },
+  "10031000141206006900": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "00",
+   "examples": [
+    "HQ UTILITY HELO TRP",
+    "1 PLT UTILITY HELO",
+    "2 PLT UTILITY HELO"
+   ]
+  },
+  "10031000141206006915": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "15",
+   "examples": [
+    "1 PLT TRANS HELO",
+    "2 PLT TRANS HELO"
+   ]
+  },
+  "10031000141206006924": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "24",
+   "examples": [
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1",
+    "JAMMING HELO PLT 1"
+   ]
+  },
+  "10031000141206009800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "QG de compagnie"
+   ]
+  },
+  "10031000141208000100": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120800",
+   "mod1": "01",
+   "mod2": "00",
+   "examples": [
+    "TRANS LAUNCH PLT UCAV"
+   ]
+  },
+  "10031000141209000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "FUNC STF PLT"
+   ]
+  },
+  "10031000141210000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1er Peloton Infanterie Mécanisé",
+    "2e Peloton Infanterie Mécanisé",
+    "3e Peloton Infanterie Mécanisé"
+   ]
+  },
+  "10031000141211000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Section Fusillier",
+    "Section Infanterie",
+    "Section fusillier",
+    "Peloton Infanterie"
+   ]
+  },
+  "10031000141211000001": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "Section Parachutistes",
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1"
+   ]
+  },
+  "10031000141211000019": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "1 PLT",
+    "2 PLT",
+    "3 PLT",
+    "311 SNPR PLT"
+   ]
+  },
+  "10031000141211000051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Section"
+   ]
+  },
+  "10031000141211005600": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "56",
+   "mod2": "00",
+   "examples": [
+    "Section fusillier"
+   ]
+  },
+  "10031000141211005651": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "56",
+   "mod2": "51",
+   "examples": [
+    "Section Armes Lourdes"
+   ]
+  },
+  "10031000141211007751": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "77",
+   "mod2": "51",
+   "examples": [
+    "Peleton de Soutien",
+    "Peleton de Soutien AMX 10P"
+   ]
+  },
+  "10031000141211020000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1",
+    "3 PLT 1"
+   ]
+  },
+  "10031000141211020051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Peleton Infanterie VAB",
+    "Peleton Infanterie Mécanisé (VBCI)",
+    "Peleton Infanterie Mécanisé",
+    "1er Peloton Infanterie VAB"
+   ]
+  },
+  "10031000141211029800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000141211030000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121103",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Peloton MG"
+   ]
+  },
+  "10031000141211040000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121104",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1",
+    "3 PLT 1"
+   ]
+  },
+  "10031000141211050000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1",
+    "3 PLT 1"
+   ]
+  },
+  "10031000141211050051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Section Canon Mobile",
+    "Peleton de Combat AMX 10P"
+   ]
+  },
+  "10031000141211060000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121106",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Section Armes Lourdes"
+   ]
+  },
+  "10031000141211069800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121106",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "Section Commandement"
+   ]
+  },
+  "10031000141213000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "RECON PLT",
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1"
+   ]
+  },
+  "10031000141213000022": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "22",
+   "examples": [
+    "LR SENSOR PLT",
+    "LR RECON PLT",
+    "RECON PLT",
+    "HQ 1 CO"
+   ]
+  },
+  "10031000141213000051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Plt. Reco et Intervention (VBL)",
+    "Peleton de reconnaissance",
+    "Peleton de VBL"
+   ]
+  },
+  "10031000141213007800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "78",
+   "mod2": "00",
+   "examples": [
+    "Escadron de Gazelle"
+   ]
+  },
+  "10031000141213030000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121303",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HM RECON PLT",
+    "HQ 4 CO",
+    "1 PLT 4",
+    "2 PLT 4"
+   ]
+  },
+  "10031000141219000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "UAV PLT",
+    "UAV JAMMING PLT",
+    "GND CNTRL PLT 1",
+    "TRANS LAUNCH PLT 1"
+   ]
+  },
+  "10031000141301000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 PLT AA",
+    "2 PLT AA",
+    "3 PLT AA",
+    "HQ"
+   ]
+  },
+  "10031000141301000043": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "00",
+   "mod2": "43",
+   "examples": [
+    "MANPAD PLT"
+   ]
+  },
+  "10031000141301006700": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "1 PLT EW",
+    "2 PLT EW",
+    "1 PLT",
+    "2 PLT"
+   ]
+  },
+  "10031000141301010000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130101",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Peloton AA"
+   ]
+  },
+  "10031000141301015800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130101",
+   "mod1": "58",
+   "mod2": "00",
+   "examples": [
+    "Batterie AA Guépard"
+   ]
+  },
+  "10031000141301020000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000141301020019": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "MANPAD PLT",
+    "SAM PLT",
+    "1 PLT MANPAD",
+    "2 PLT MANPAD"
+   ]
+  },
+  "10031000141301020024": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "24",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000141301020051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Batterie AA Crotale"
+   ]
+  },
+  "10031000141303000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "2 PLT 2",
+    "2 PLT 4"
+   ]
+  },
+  "10031000141303000001": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1",
+    "1 PLT 2"
+   ]
+  },
+  "10031000141303000051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Equipe de CAESAR"
+   ]
+  },
+  "10031000141303004100": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "41",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1",
+    "1 PLT 2"
+   ]
+  },
+  "10031000141303005000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "50",
+   "mod2": "00",
+   "examples": [
+    "CM CB PLT"
+   ]
+  },
+  "10031000141303006200": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "62",
+   "mod2": "00",
+   "examples": [
+    "SR PLT"
+   ]
+  },
+  "10031000141303006700": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "FIRE SPT PLT 1",
+    "FIRE SPT PLT 2",
+    "FIRE SPT PLT 3",
+    "FIRESPT PLT 1"
+   ]
+  },
+  "10031000141303009800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "Section HQ"
+   ]
+  },
+  "10031000141303010000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1",
+    "1 PLT 2"
+   ]
+  },
+  "10031000141306000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MET SURV PLT"
+   ]
+  },
+  "10031000141307000046": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130700",
+   "mod1": "00",
+   "mod2": "46",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000141308000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ MTR BTY",
+    "1 PLT MTR",
+    "2 PLT MTR"
+   ]
+  },
+  "10031000141308000047": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130800",
+   "mod1": "00",
+   "mod2": "47",
+   "examples": [
+    "Equipe Mortier",
+    "Equipe Mortier Tracté"
+   ]
+  },
+  "10031000141308020000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130802",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 PLT MTR",
+    "2 PLT MTR",
+    "HQ MTR BTY"
+   ]
+  },
+  "10031000141308030000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130803",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Batterie mortier (VAB)",
+    "QG Compagnie"
+   ]
+  },
+  "10031000141401000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 PLT RECON",
+    "2 PLT RECON",
+    "3 PLT RECON",
+    "44 CHEM PLT"
+   ]
+  },
+  "10031000141401000700": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "07",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "171 CHEM PLT",
+    "164 CHEM PLT",
+    "151 CHEM CO"
+   ]
+  },
+  "10031000141401001500": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "15",
+   "mod2": "00",
+   "examples": [
+    "1 PLT DECON",
+    "2 PLT DECON",
+    "3 PLT DECON",
+    "4 PLT DECON"
+   ]
+  },
+  "10031000141401050400": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140105",
+   "mod1": "04",
+   "mod2": "00",
+   "examples": [
+    "RECON PLT"
+   ]
+  },
+  "10031000141402000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CYBER INT DF PLT",
+    "INTERNET PROD PLT",
+    "HQ INFO ATK BN",
+    "1 PLT 1"
+   ]
+  },
+  "10031000141407000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Peleton Ingénieur",
+    "ENG SPT PLT"
+   ]
+  },
+  "10031000141407000001": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "CBT ENG PLT",
+    "MINE WARFARE PLT",
+    "BRIDGE PLT"
+   ]
+  },
+  "10031000141407000900": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "09",
+   "mod2": "00",
+   "examples": [
+    "CBT ENG PLT",
+    "MINE WARFARE PLT",
+    "HQ",
+    "MINELAYING PLT"
+   ]
+  },
+  "10031000141407000919": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "09",
+   "mod2": "19",
+   "examples": [
+    "BRIDGE PLT"
+   ]
+  },
+  "10031000141407001200": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "12",
+   "mod2": "00",
+   "examples": [
+    "ENG SPT PLT",
+    "1 PLT RD BRIDGE CONST",
+    "2 PLT RD BRIDGE CONST",
+    "CONST PLT"
+   ]
+  },
+  "10031000141407030000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140703",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "ENG RECON PLT",
+    "1 PLT",
+    "2 PLT",
+    "3 PLT"
+   ]
+  },
+  "10031000141412000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TAC SCTY PLT",
+    "HQ",
+    "1 PLT 1",
+    "2 PLT 1"
+   ]
+  },
+  "10031000141414000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Equipe Démineur"
+   ]
+  },
+  "10031000141417000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TAC SCTY PLT"
+   ]
+  },
+  "10031000141502000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ"
+   ]
+  },
+  "10031000141505000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ IEW CO",
+    "HQ INT PLT",
+    "HQ",
+    "HQ SIG RECON CO"
+   ]
+  },
+  "10031000141505020000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150502",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "RADIO DF PLT"
+   ]
+  },
+  "10031000141505030000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150503",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SIG RECON PLT",
+    "RADAR RECON PLT",
+    "UHF RADIO DF PLT",
+    "1 PLT EW TA"
+   ]
+  },
+  "10031000141505040000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150504",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "JAMMER TECH PLT",
+    "JAM TECH PLT FA"
+   ]
+  },
+  "10031000141510000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MI PLT",
+    "IFC MI PLT",
+    "AVN RADAR PLT",
+    "INTEL MGMT PLT"
+   ]
+  },
+  "10031000141510004900": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "49",
+   "mod2": "00",
+   "examples": [
+    "OP PLAN C2 PLT 1",
+    "OP PLAN C2 PLT 2",
+    "1 PLT RESEARCH PLAN",
+    "2 PLT RESEARCH PLAN"
+   ]
+  },
+  "10031000141510005000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "50",
+   "mod2": "00",
+   "examples": [
+    "GND RADAR PLT"
+   ]
+  },
+  "10031000141510005700": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "57",
+   "mod2": "00",
+   "examples": [
+    "MONITOR PLT"
+   ]
+  },
+  "10031000141606000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SPT PLT",
+    "HQ",
+    "ENG SPT PLT",
+    "ISC OPS PLT"
+   ]
+  },
+  "10031000141611000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SPEC MNT PLT",
+    "1 PLT",
+    "2 PLT",
+    "RECOVERY PLT"
+   ]
+  },
+  "10031000141611000051": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Groupe de Maintenance"
+   ]
+  },
+  "10031000141611003400": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "34",
+   "mod2": "00",
+   "examples": [
+    "TECH PLT"
+   ]
+  },
+  "10031000141613000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Section médicale",
+    "HQ",
+    "SURG PLT 1",
+    "INT MED PLT 1"
+   ]
+  },
+  "10031000141614000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Section Installation Médicale"
+   ]
+  },
+  "10031000141623000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "ORD MNT PLT",
+    "1 PLT ORD MNT",
+    "2 PLT ORD MNT"
+   ]
+  },
+  "10031000141628000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TV VIDEO PROD PLT"
+   ]
+  },
+  "10031000141629000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "CGO SPLY PLT",
+    "SPLY PLT 1",
+    "SPLY PLT 2",
+    "SPLY PLT 3"
+   ]
+  },
+  "10031000141634000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Peleton Logistique",
+    "Peleton Munition",
+    "Section de Logistique",
+    "Section Logistique (vide)"
+   ]
+  },
+  "10031000141634000055": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163400",
+   "mod1": "00",
+   "mod2": "55",
+   "examples": [
+    "Peleton Logistique Carburant"
+   ]
+  },
+  "10031000141634000300": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163400",
+   "mod1": "03",
+   "mod2": "00",
+   "examples": [
+    "Section de Logistique de Combat"
+   ]
+  },
+  "10031000141634009800": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163400",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "QG de compagnie"
+   ]
+  },
+  "10031000141636000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "TRANS PLT",
+    "1 PLT 3",
+    "2 PLT 3",
+    "Peleton Transport"
+   ]
+  },
+  "10031000141639000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "POL PLT",
+    "2 PLT 1",
+    "HQ",
+    "1 PLT 1"
+   ]
+  },
+  "10031000141641000000": {
+   "echelon": "Peloton/Section (FR)",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "164100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 PLT AMMO SPLY",
+    "2 PLT AMMO SPLY",
+    "1 PLT 1",
+    "2 PLT 1"
+   ]
+  },
+  "10031000150000009800": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "Comp. Commandement",
+    "HQ",
+    "7e Compagnie C. et T.",
+    "9e Compagnie C. et T."
+   ]
+  },
+  "10031000150000009801": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "98",
+   "mod2": "01",
+   "examples": [
+    "11e Compagnie C. et T."
+   ]
+  },
+  "10031000150000009827": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "98",
+   "mod2": "27",
+   "examples": [
+    "27e Compagnie C. et T."
+   ]
+  },
+  "10031000150000009851": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "98",
+   "mod2": "51",
+   "examples": [
+    "QG"
+   ]
+  },
+  "10031000151106000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "110600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "INFLUENCE CO",
+    "1 CO",
+    "2 CO"
+   ]
+  },
+  "10031000151110000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO",
+    "4 CO"
+   ]
+  },
+  "10031000151204000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 BTY",
+    "2 BTY",
+    "Comp. AT",
+    "3 BTY"
+   ]
+  },
+  "10031000151204010051": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120401",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "84e Compagnie Anti-Char \"Liège\"",
+    "12e Compagnie Anti-Char \"Dinant\"",
+    "84e Cie Anti-Char Légère \"Liège\"",
+    "12e Cie Anti-Char \"Dinant\""
+   ]
+  },
+  "10031000151205000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "1 CO",
+    "2 CO",
+    "3 CO"
+   ]
+  },
+  "10031000151205000019": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "Compagnie Char Léger (M22)"
+   ]
+  },
+  "10031000151205000051": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "85e Compagnie Chars RC \"Dunkerque\"",
+    "86e Compagnie Chars RC \"Louvains\"",
+    "C. AMX10-RC"
+   ]
+  },
+  "10031000151205010000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120501",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "2 CO",
+    "32e Compagnie de reconnaissance \"Verdun-Yser\"",
+    "1e Cie Reconnaissance",
+    "2e Cie Reconnaissance"
+   ]
+  },
+  "10031000151206000100": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "01",
+   "mod2": "00",
+   "examples": [
+    "Compagnie de Transport et d'assaut"
+   ]
+  },
+  "10031000151206000300": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "03",
+   "mod2": "00",
+   "examples": [
+    "Compagnie de Combat et Soutient",
+    "HQ",
+    "1 TRP",
+    "2 TRP"
+   ]
+  },
+  "10031000151206000319": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "03",
+   "mod2": "19",
+   "examples": [
+    "Compagnie d'Attaque Légère"
+   ]
+  },
+  "10031000151206006900": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "00",
+   "examples": [
+    "UTILITY HELO TRP"
+   ]
+  },
+  "10031000151206006915": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "15",
+   "examples": [
+    "TRANS HELO CO HVY"
+   ]
+  },
+  "10031000151206006924": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "24",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO"
+   ]
+  },
+  "10031000151208000100": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120800",
+   "mod1": "01",
+   "mod2": "00",
+   "examples": [
+    "UCAV CO",
+    "GND CNTRL PLT UCAV"
+   ]
+  },
+  "10031000151210000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "318e Compagnie Infanterie Blindés \"Aerschot\"",
+    "514e C. Infanterie Blindés \"La Marne\"",
+    "315e Compagnie Infanterie Blindés \"Ardennes\"",
+    "86e Cie Infanterie Blindés \"Louvains\""
+   ]
+  },
+  "10031000151211000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Compagnie Infanterie (vide)",
+    "Compagnie de Tirailleurs",
+    "Compagnie Infanterie",
+    "Compagnie Volskgrenadier"
+   ]
+  },
+  "10031000151211000001": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO",
+    "Compagnie Parachutistes"
+   ]
+  },
+  "10031000151211000019": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "4 SNPR CO",
+    "31 SNPR CO",
+    "32 SNPR CO",
+    "11 SNPR CO"
+   ]
+  },
+  "10031000151211000051": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Compagnie Pz Grenadier 1943",
+    "Compagnie Infanterie Mot. 1943"
+   ]
+  },
+  "10031000151211005600": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "56",
+   "mod2": "00",
+   "examples": [
+    "Compagnie MG"
+   ]
+  },
+  "10031000151211005651": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "56",
+   "mod2": "51",
+   "examples": [
+    "Compagnie Lourdes"
+   ]
+  },
+  "10031000151211007600": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "76",
+   "mod2": "00",
+   "examples": [
+    "Compagnie Rangers"
+   ]
+  },
+  "10031000151211007700": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "77",
+   "mod2": "00",
+   "examples": [
+    "Comp. Mitrailleuse"
+   ]
+  },
+  "10031000151211020000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO",
+    "STAFF CO"
+   ]
+  },
+  "10031000151211020051": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "514e C. Infanterie Mécanisé VAB \"La Marne\"",
+    "123e C. Infanterie Mécanisé VAB \"Charleroi\"",
+    "124e C. Infanterie Mécanisé VAB \"Dixmude\"",
+    "4e Cie. Infanterie VAB"
+   ]
+  },
+  "10031000151211030000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121103",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Compagnie Canon d'Infanterie",
+    "Compagnie Canon d'Infanterie 1939",
+    "Compagnie Armes Lourdes 1939",
+    "Compagine MG"
+   ]
+  },
+  "10031000151211040000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121104",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO",
+    "STAFF CO"
+   ]
+  },
+  "10031000151211050000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO",
+    "HHC"
+   ]
+  },
+  "10031000151211050051": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "C. Infanterie de Combat AMX-10P (2002.A)"
+   ]
+  },
+  "10031000151213000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "41 RECON CO",
+    "42 RECON CO",
+    "43 RECON CO",
+    "44 RECON CO"
+   ]
+  },
+  "10031000151213000001": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "1516 RECON CO"
+   ]
+  },
+  "10031000151213000022": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "22",
+   "examples": [
+    "1 CO",
+    "3 CO"
+   ]
+  },
+  "10031000151213007800": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "78",
+   "mod2": "00",
+   "examples": [
+    "Compagnie de Reconnaissance"
+   ]
+  },
+  "10031000151213030000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121303",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "4 CO"
+   ]
+  },
+  "10031000151217000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Compagnie de Désert",
+    "Compagnie de Combat Urbain",
+    "HQ 166 SPF BDE"
+   ]
+  },
+  "10031000151217000001": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121700",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "Compagnie Aéroportée"
+   ]
+  },
+  "10031000151217000042": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121700",
+   "mod1": "00",
+   "mod2": "42",
+   "examples": [
+    "Compagnie de Combat en Montagne"
+   ]
+  },
+  "10031000151219000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ",
+    "1 CO",
+    "2 CO",
+    "UAV JAM CO"
+   ]
+  },
+  "10031000151301000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "AA BTY",
+    "1 BTY",
+    "2 BTY",
+    "3 BTY"
+   ]
+  },
+  "10031000151301006700": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "165 EW BTY",
+    "316 EW BTY",
+    "326 EW BTY",
+    "116 EW BTY"
+   ]
+  },
+  "10031000151301020000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "73e Compagnie Anti-Aérienne \"Albert\"",
+    "72e Compagnie Anti-Aérienne \"Bruges\""
+   ]
+  },
+  "10031000151301020019": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "MANPAD BTY",
+    "SAM BTY",
+    "165 MANPAD BTY",
+    "HQ 316 ADA BDE"
+   ]
+  },
+  "10031000151301020024": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "24",
+   "examples": [
+    "1 BTY",
+    "2 BTY",
+    "3 BTY"
+   ]
+  },
+  "10031000151303000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Batterie de 75mm",
+    "Compagnie Artillerie"
+   ]
+  },
+  "10031000151303000001": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "1 BTY",
+    "2 BTY",
+    "3 BTY"
+   ]
+  },
+  "10031000151303000015": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "15",
+   "examples": [
+    "Batterie de 155mm",
+    "Compagnie Artillerie"
+   ]
+  },
+  "10031000151303000051": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Batterie CAESAR",
+    "BT CAESAR"
+   ]
+  },
+  "10031000151303004100": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "41",
+   "mod2": "00",
+   "examples": [
+    "1 BTY",
+    "2 BTY",
+    "3 BTY",
+    "STAFF BTY"
+   ]
+  },
+  "10031000151303005000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "50",
+   "mod2": "00",
+   "examples": [
+    "161 TAB",
+    "162 TAB",
+    "315 TAB",
+    "325 TAB"
+   ]
+  },
+  "10031000151303006700": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "HHC",
+    "IFC STAFF CO",
+    "STAFF CO",
+    "45 TAB"
+   ]
+  },
+  "10031000151303010000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 BTY",
+    "2 BTY",
+    "3 BTY",
+    "FA BTY"
+   ]
+  },
+  "10031000151303014151": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "41",
+   "mod2": "51",
+   "examples": [
+    "HQ 163 MRL BDE"
+   ]
+  },
+  "10031000151303030000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130303",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Comp. Observeur"
+   ]
+  },
+  "10031000151304000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Compagnie Reco et Acquisition"
+   ]
+  },
+  "10031000151307000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "STAFF CO",
+    "HHC"
+   ]
+  },
+  "10031000151307000046": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130700",
+   "mod1": "00",
+   "mod2": "46",
+   "examples": [
+    "1 BTY",
+    "2 BTY",
+    "HQ 164 SSM BDE"
+   ]
+  },
+  "10031000151308000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MTR BTY"
+   ]
+  },
+  "10031000151308000015": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130800",
+   "mod1": "00",
+   "mod2": "15",
+   "examples": [
+    "Batterie Mortier 120mm"
+   ]
+  },
+  "10031000151308020000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130802",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "MTR BTY",
+    "Batterie VAB Mortier (80mm)",
+    "BT VAB Mortier (80mm)"
+   ]
+  },
+  "10031000151308030000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130803",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Compagnie mortier"
+   ]
+  },
+  "10031000151401000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "RECON CO"
+   ]
+  },
+  "10031000151401000700": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "07",
+   "mod2": "00",
+   "examples": [
+    "152 CHEM CO",
+    "182 CHEM PLT"
+   ]
+  },
+  "10031000151401001500": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "15",
+   "mod2": "00",
+   "examples": [
+    "DECON CO"
+   ]
+  },
+  "10031000151402000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "41 IW CO",
+    "42 IW CO",
+    "43 IW CO",
+    "INFO SPT CO"
+   ]
+  },
+  "10031000151407000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Section Ingénieurs",
+    "Compagnie \"Potonnier de la Lys\"",
+    "C. Ingénieurs"
+   ]
+  },
+  "10031000151407000900": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "09",
+   "mod2": "00",
+   "examples": [
+    "MINE WAR CO",
+    "ASLT CROSS CO",
+    "PONTOON BRIDGE CO",
+    "1 CO"
+   ]
+  },
+  "10031000151407001200": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "12",
+   "mod2": "00",
+   "examples": [
+    "ENG SPT CO",
+    "RD BRIDGE CONST CO",
+    "1 CO",
+    "2 CO"
+   ]
+  },
+  "10031000151407010000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140701",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "550e PanzerPionner Kompanie"
+   ]
+  },
+  "10031000151407030000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140703",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "155 RECON CO"
+   ]
+  },
+  "10031000151412000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO",
+    "164 TAC SCTY CO"
+   ]
+  },
+  "10031000151505000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "IEW CO",
+    "EW CO",
+    "HQ 181 SIG RECON BDE",
+    "STAFF CO"
+   ]
+  },
+  "10031000151510000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ 10 RISTA CMD",
+    "181 INT MGMT CO",
+    "PHYS DECEPTION CO",
+    "182 INTEL MGMT CO"
+   ]
+  },
+  "10031000151510004900": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "49",
+   "mod2": "00",
+   "examples": [
+    "RESEARCH PLAN CO"
+   ]
+  },
+  "10031000151510005000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "50",
+   "mod2": "00",
+   "examples": [
+    "RADAR INT DF CO"
+   ]
+  },
+  "10031000151606000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SPT CO",
+    "HHC",
+    "Comp. Support",
+    "ISC STAFF CO"
+   ]
+  },
+  "10031000151611000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Section Maintenance",
+    "1 CO",
+    "2 CO",
+    "3 CO"
+   ]
+  },
+  "10031000151611003400": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "34",
+   "mod2": "00",
+   "examples": [
+    "TECH BTY",
+    "164 MISSILE TECH BTY"
+   ]
+  },
+  "10031000151613000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO",
+    "EVAC CO"
+   ]
+  },
+  "10031000151623000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "ORD MNT CO"
+   ]
+  },
+  "10031000151628000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HQ PERCEPTION MGMT"
+   ]
+  },
+  "10031000151634000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Train",
+    "Compagnie de ravitaillement",
+    "Compagnie de Munitions"
+   ]
+  },
+  "10031000151634000055": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163400",
+   "mod1": "00",
+   "mod2": "55",
+   "examples": [
+    "Compagnie de Carburant"
+   ]
+  },
+  "10031000151636000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "3 CO",
+    "2 CO",
+    "1 CO",
+    "CGO TRANS CO"
+   ]
+  },
+  "10031000151639000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 CO",
+    "2 CO",
+    "3 CO"
+   ]
+  },
+  "10031000151641000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "164100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1 CO",
+    "2 CO"
+   ]
+  },
+  "10031000160000005600": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "56",
+   "mod2": "00",
+   "examples": [
+    "Bataillon AT/AA"
+   ]
+  },
+  "10031000161110000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Bataillon Engineer",
+    "4 SIG BN",
+    "31 SIG BN",
+    "32 SIG BN"
+   ]
+  },
+  "10031000161204000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "41 AT BN",
+    "42 AT BN",
+    "43 AT BN",
+    "4 AT BN"
+   ]
+  },
+  "10031000161205000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "41 TANK BN",
+    "42 TANK BN",
+    "43 TANK BN",
+    "441 TANK BN"
+   ]
+  },
+  "10031000161205010000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120501",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "4 RECON BN",
+    "31 RECON BN",
+    "32 RECON BN",
+    "11 RECON BN"
+   ]
+  },
+  "10031000161205020000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120502",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "152 TANK BN LT"
+   ]
+  },
+  "10031000161206000300": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "03",
+   "mod2": "00",
+   "examples": [
+    "1672 ATK HELO SQDN",
+    "1671 ATK HELO SQDN",
+    "1673 ATK HELO SQDN"
+   ]
+  },
+  "10031000161206006900": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "69",
+   "mod2": "00",
+   "examples": [
+    "1674 UTILITY HELO SQDN",
+    "1675 UTILITY HELO SQDN"
+   ]
+  },
+  "10031000161211000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Bataillon Infanterie",
+    "6e Bataillon de Chasseur Alpins"
+   ]
+  },
+  "10031000161211000001": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "1e Bataillon Chasseur Parachutiste ",
+    "2e Régiment Etranger Parachutiste",
+    "3e Régiment Parachutiste d'infanterie de Marine",
+    "8e Régiment Parachutiste d'infanterie de Marine"
+   ]
+  },
+  "10031000161211000027": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "27",
+   "examples": [
+    "7e Bataillon Chasseur Alpins ",
+    "13e Bataillon Chasseur Alpins ",
+    "27e Bataillon Chasseur Alpins ",
+    "Groupement d'Aguerrissement en Montagne"
+   ]
+  },
+  "10031000161211000051": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Bataillon Pz Grenadier (1943)"
+   ]
+  },
+  "10031000161211020000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "412 MECH IFV BN",
+    "413 MECH IFV BN",
+    "411 MECH IFV BN",
+    "421 MECH IFV BN"
+   ]
+  },
+  "10031000161211020051": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "291e Jager Bataillon",
+    "292e Jager Bataillon"
+   ]
+  },
+  "10031000161211040000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121104",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "3111 MTZD INF BN",
+    "3112 MTZD INF BN",
+    "3113 MTZD INF BN",
+    "3121 MTZD INF BN"
+   ]
+  },
+  "10031000161211050000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "16e Bataillon de Chasseurs",
+    "314 IFV BN",
+    "324 IFV BN",
+    "1112 MECH IFV BN"
+   ]
+  },
+  "10031000161211060000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121106",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "12e Bataillon de Soutien AA et AT"
+   ]
+  },
+  "10031000161213000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "10e Bataillon de Hussards",
+    "45 MRL BN"
+   ]
+  },
+  "10031000161217000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1661 SPF BN",
+    "1662 SPF BN",
+    "1663 SPF BN",
+    "1664 SPF BN"
+   ]
+  },
+  "10031000161219000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "183 UAV BN"
+   ]
+  },
+  "10031000161301000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "41 ADA BN",
+    "42 ADA BN",
+    "43 ADA BN",
+    "44 ADA BN"
+   ]
+  },
+  "10031000161301020019": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "164 ADA BN",
+    "311 ADA BN",
+    "312 ADA BN",
+    "313 ADA BN"
+   ]
+  },
+  "10031000161301020024": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "24",
+   "examples": [
+    "4 ADA BN"
+   ]
+  },
+  "10031000161303000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Bat. Artillerie",
+    "Bataillon Artillerie"
+   ]
+  },
+  "10031000161303000001": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "1515 FA BN"
+   ]
+  },
+  "10031000161303000015": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "15",
+   "examples": [
+    "Bat. Artillerie Lourde",
+    "Bataillon Artillerie"
+   ]
+  },
+  "10031000161303000051": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "7e Régiment Artillerie",
+    "7e Bataillon Artillerie"
+   ]
+  },
+  "10031000161303010000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "295e Artillerie Bataillon",
+    "41 FA BN",
+    "42 FA BN",
+    "43 FA BN"
+   ]
+  },
+  "10031000161303014151": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "41",
+   "mod2": "51",
+   "examples": [
+    "161 MRL BN",
+    "162 MRL BN",
+    "1631 MRL BN",
+    "1632 MRL BN"
+   ]
+  },
+  "10031000161303030000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130303",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Bataillon Reconnaissance"
+   ]
+  },
+  "10031000161304000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Bataillon Observeur Artillerie"
+   ]
+  },
+  "10031000161307000046": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130700",
+   "mod1": "00",
+   "mod2": "46",
+   "examples": [
+    "164 MRBM BN",
+    "164 SRBM BN HVY",
+    "164 SRBM BN",
+    "164 CM BN"
+   ]
+  },
+  "10031000161401000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "4 CHEM BN",
+    "31 CHEM BN",
+    "32 CHEM BN",
+    "11 CHEM BN"
+   ]
+  },
+  "10031000161401000700": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "07",
+   "mod2": "00",
+   "examples": [
+    "174 CHEM BN"
+   ]
+  },
+  "10031000161402000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "182 INFO ATK BN"
+   ]
+  },
+  "10031000161407000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1e Bataillon du Génie",
+    "Bataillon Engineer"
+   ]
+  },
+  "10031000161407000001": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "151 ENG BN"
+   ]
+  },
+  "10031000161407000900": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "09",
+   "mod2": "00",
+   "examples": [
+    "4 ENG BN",
+    "164 ENG BN",
+    "31 ENG BN",
+    "32 ENG BN"
+   ]
+  },
+  "10031000161407001200": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "12",
+   "mod2": "00",
+   "examples": [
+    "155 RD BRDG BN",
+    "155 FAB BN"
+   ]
+  },
+  "10031000161412000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "141200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "171 MOB SCTY BN"
+   ]
+  },
+  "10031000161502000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "182 DECEPTION BN"
+   ]
+  },
+  "10031000161505000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "SIG RECON CO",
+    "1811 SIG RECON BN",
+    "1812 SIG RECON BN",
+    "1813 SIG RECON BN"
+   ]
+  },
+  "10031000161606000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "45 SPT BN",
+    "461 SPT BN",
+    "462 SPT BN",
+    "1711 SPT BN"
+   ]
+  },
+  "10031000161611000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "46 MNT BN",
+    "171 MNT BN",
+    "172 MNT BN",
+    "31 MNT BN"
+   ]
+  },
+  "10031000161613000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "161300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "4 MED BN",
+    "173 MED BN",
+    "31 MED BN",
+    "32 MED BN"
+   ]
+  },
+  "10031000161628000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "162800",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "182 PERCEPTION MGMT BN"
+   ]
+  },
+  "10031000161634000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "1e Bataillon du Train",
+    "Train Divisionnaire",
+    "Bat Commandement et Soutien"
+   ]
+  },
+  "10031000161636000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "46 HET BN",
+    "1712 POL TRANS BN",
+    "1711 POL TRANS BN",
+    "171 HET BN"
+   ]
+  },
+  "10031000161639000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163900",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "46 POL BN",
+    "11 POL BN",
+    "12 POL BN"
+   ]
+  },
+  "10031000171205000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "8e Régiment de Cuirrassiers des Ardennes",
+    "1e Régiment de Chasseur",
+    "5e Régiment de Dragon",
+    "12e Régiment de Cuirassier"
+   ]
+  },
+  "10031000171205000051": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "4e Régiment de Chasseur",
+    "1e Régiment de Spahis",
+    "1e Régiment de Hussard Parachutiste"
+   ]
+  },
+  "10031000171205004651": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "46",
+   "mod2": "51",
+   "examples": [
+    "Régiment Infanterie-Char de Marine",
+    "1e Régiment Infanterie de Marine"
+   ]
+  },
+  "10031000171205010051": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120501",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "3e Régiment de Hussards"
+   ]
+  },
+  "10031000171206000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "16e Régiment d'hélicoptère de l'Escaut"
+   ]
+  },
+  "10031000171211000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Regiment Infanterie",
+    "3e Régiment Chasseur d'Afrique",
+    "12e Régiment de Chasseurs d'Afrique",
+    "4e Régiment d'infanterie de Marine (CFIM)"
+   ]
+  },
+  "10031000171211000001": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "Ecole de Troupe Aéroportée"
+   ]
+  },
+  "10031000171211000027": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "27",
+   "examples": [
+    "Ecole Militaire de Haute Montagne"
+   ]
+  },
+  "10031000171211004600": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "46",
+   "mod2": "00",
+   "examples": [
+    "1er Régiment d'artillerie Marine",
+    "22e Régiment d'Infanterie de Marine"
+   ]
+  },
+  "10031000171211020000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "7e Régiment Infanterie Mécanisé \"Yser-Marne\"",
+    "3e Régiment Infanterie Mécanisé \"Leuven-Arras\"",
+    "1er Régiment de Tirailleurs",
+    "35e Régiment d'Infanterie"
+   ]
+  },
+  "10031000171211020051": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "126e Régiment d'Infanterie",
+    "1er Régiment d'Infanterie",
+    "21e Régiment d'infanterie de Marine"
+   ]
+  },
+  "10031000171211024651": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "46",
+   "mod2": "51",
+   "examples": [
+    "3e Régiment d'Infanterie de Marine"
+   ]
+  },
+  "10031000171211050000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "92e Régiment d'Infanterie"
+   ]
+  },
+  "10031000171211054651": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "46",
+   "mod2": "51",
+   "examples": [
+    "2e Régiment Infanterie de Marine",
+    "Régiment de Marche du Tchad"
+   ]
+  },
+  "10031000171217000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Régiment Chasseurs Parachutistes Ardennais"
+   ]
+  },
+  "10031000171301020000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "54e Régiment Artillerie"
+   ]
+  },
+  "10031000171303000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Regiment Artillerie",
+    "Reg. Artillerie Légère",
+    "Reg. Artillerie Lourde",
+    "Reg. Artillerie"
+   ]
+  },
+  "10031000171303000001": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "35e Régiment D'artillerie Parachutiste"
+   ]
+  },
+  "10031000171303000051": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "68e Régiment Artillerie d'Afrique",
+    "93e Régiment Artillerie de Montagne",
+    "3e Régiment Artillerie de Marine"
+   ]
+  },
+  "10031000171303003400": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "34",
+   "mod2": "00",
+   "examples": [
+    "1er Régiment Artillerie"
+   ]
+  },
+  "10031000171303004651": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "46",
+   "mod2": "51",
+   "examples": [
+    "11e Régiment d'Artillerie de Marine"
+   ]
+  },
+  "10031000171303010000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "40e Régiment d'Artillerie"
+   ]
+  },
+  "10031000171401000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "2e Régiment de Dragons"
+   ]
+  },
+  "10031000171405000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "132e Régiment Infanterie Cynotechnique"
+   ]
+  },
+  "10031000171407000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "19e Régiment du Génie",
+    "3e Régiment du Génie",
+    "6e Régiment du Génie",
+    "2e Régiment Etranger Génie"
+   ]
+  },
+  "10031000171407000001": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "17e Régiment Génie Parachutiste"
+   ]
+  },
+  "10031000171407010000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140701",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "13e Régiment du Génie"
+   ]
+  },
+  "10031000171636000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Régiment Transport"
+   ]
+  },
+  "10031000171636000001": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "163600",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "1e Régiment Train Parachutiste"
+   ]
+  },
+  "10031000181110000000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "111000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "154 SIG BDE",
+    "HHC"
+   ]
+  },
+  "10031000181204000000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120400",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "153 AT BDE",
+    "HHC"
+   ]
+  },
+  "10031000181205000000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "7e Brigade Blindé",
+    "2e Brigade Blindé",
+    "44 TANK BDE",
+    "314 TANK BDE"
+   ]
+  },
+  "10031000181205010000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120501",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "152 RECON BDE",
+    "HHC"
+   ]
+  },
+  "10031000181206000300": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "120600",
+   "mod1": "03",
+   "mod2": "00",
+   "examples": [
+    "167 CBT AVN BDE"
+   ]
+  },
+  "10031000181211000001": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "01",
+   "examples": [
+    "11e Brigade Parachutiste",
+    "151 ABN IFV BDE SEP",
+    "HHC"
+   ]
+  },
+  "10031000181211000027": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "27",
+   "examples": [
+    "27e Brigade de Montagne"
+   ]
+  },
+  "10031000181211020000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HHC",
+    "Brigade de Combat Franco-Belge (2010.B)",
+    "Brigade de Combat Franco-Belge (2010.A)",
+    "Brigade de Combat Franco-Belge (2010.C)"
+   ]
+  },
+  "10031000181211020051": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "51",
+   "examples": [
+    "Brigade Franco Allemande"
+   ]
+  },
+  "10031000181211024600": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "46",
+   "mod2": "00",
+   "examples": [
+    "9e Brigade Infanterie Marine"
+   ]
+  },
+  "10031000181211040000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121104",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "HHC",
+    "311 MTZD INF BDE",
+    "312 MTZD INF BDE",
+    "313 MTZD INF BDE"
+   ]
+  },
+  "10031000181211050000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "111 MECH IFV BDE",
+    "112 MECH IFV BDE",
+    "113 MECH IFV BDE",
+    "121 MECH IFV BDE"
+   ]
+  },
+  "10031000181217000000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121700",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "166 SPF BDE"
+   ]
+  },
+  "10031000181301000000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "165 ADA BDE",
+    "HQ 165 ADA BDE",
+    "116 ADA BDE",
+    "HQ 116 ADA BDE"
+   ]
+  },
+  "10031000181301020019": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130102",
+   "mod1": "00",
+   "mod2": "19",
+   "examples": [
+    "316 ADA BDE",
+    "326 ADA BDE"
+   ]
+  },
+  "10031000181303010000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "45 FA BDE",
+    "161 FA BDE",
+    "162 FA BDE",
+    "315 FA BDE"
+   ]
+  },
+  "10031000181303014151": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130301",
+   "mod1": "41",
+   "mod2": "51",
+   "examples": [
+    "163 MRL BDE"
+   ]
+  },
+  "10031000181307000046": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130700",
+   "mod1": "00",
+   "mod2": "46",
+   "examples": [
+    "164 SSM BDE"
+   ]
+  },
+  "10031000181402000000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140200",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "182 INFOWAR BDE",
+    "HHC"
+   ]
+  },
+  "10031000181407000900": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "140700",
+   "mod1": "09",
+   "mod2": "00",
+   "examples": [
+    "155 CBT ENG BDE"
+   ]
+  },
+  "10031000181505000000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "150500",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "181 SIG RECON BDE",
+    "HHC"
+   ]
+  },
+  "10031000181606000000": {
+   "echelon": "Brigade",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "46 MAT SPT BDE",
+    "171 SPT BDE",
+    "31 SPT BDE",
+    "32 SPT BDE"
+   ]
+  },
+  "10031000211211000000": {
+   "echelon": "Division",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Division Infanterie (1939)",
+    "1re Division",
+    "3e Division"
+   ]
+  },
+  "10031000211211020000": {
+   "echelon": "Division",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "21 MECH APC DIV",
+    "22 MECH APC DIV"
+   ]
+  },
+  "10031000211211040000": {
+   "echelon": "Division",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121104",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "31 MTZD INF DIV",
+    "32 MTZD INF DIV"
+   ]
+  },
+  "10031000211211050000": {
+   "echelon": "Division",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121105",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "4 MECH IFV DIV",
+    "HQ 4 MECH INF DIV",
+    "11 MECH IFV DIV",
+    "12 MECH IFV DIV"
+   ]
+  },
+  "10031000220000009800": {
+   "echelon": "Corps",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "98",
+   "mod2": "00",
+   "examples": [
+    "Cdo Forces Terrestres (Vide)"
+   ]
+  },
+  "10031000230000000000": {
+   "echelon": "Armée",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Etat Majors des Armées de Terre"
+   ]
+  },
+  "10031000231211020000": {
+   "echelon": "Armée",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121102",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "OPERATIONAL STRATEGIC COMMAND SOUTH"
+   ]
+  },
+  "10031000260000000000": {
+   "echelon": "Commandement",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "000000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "🚧En travaux🚧",
+    "Divisions",
+    "Compagnies",
+    "Bataillons"
+   ]
+  },
+  "10031000261303006700": {
+   "echelon": "Commandement",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "130300",
+   "mod1": "67",
+   "mod2": "00",
+   "examples": [
+    "4 INT FIRES CMD",
+    "8 IFC ARMY",
+    "31 INT FIRES CMD",
+    "32 INT FIRES CMD"
+   ]
+  },
+  "10031000261510000000": {
+   "echelon": "Commandement",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "151000",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "10 RISTA CMD"
+   ]
+  },
+  "10031000261606000000": {
+   "echelon": "Commandement",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "160600",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "4 INT SPT CMD",
+    "8 ISC ARMY",
+    "31 INT SPT CMD",
+    "32 INT SPT CMD"
+   ]
+  },
+  "30031000151211000000": {
+   "echelon": "Compagnie",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Comp. Fusillier"
+   ]
+  },
+  "30031000161211000000": {
+   "echelon": "Bataillon",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Bat. Infanterie"
+   ]
+  },
+  "30031000171211000000": {
+   "echelon": "Régiment",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Reg. Infanterie"
+   ]
+  },
+  "30031000211211000000": {
+   "echelon": "Division",
+   "symbol_set": "Unité terrestre",
+   "identity": "Ami",
+   "entity": "121100",
+   "mod1": "00",
+   "mod2": "00",
+   "examples": [
+    "Division Infanterie 1940 NorthEast",
+    "Division Infanterie 1940 A"
+   ]
+  }
+ }
+}
